@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/eds-handson/:/"
+    "/content/Eds-handson2/:/"
   ],
   "includes": [
-    "/content/eds-handson/"
+    "/content/Eds-handson2/"
   ]
 }
